@@ -1,0 +1,11 @@
+{
+  "id": "./",
+  "name": "日付メモ（完全ローカル版）",
+  "short_name": "日付メモ",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f3ee",
+  "theme_color": "#4d6b57",
+  "lang": "ja"
+}
